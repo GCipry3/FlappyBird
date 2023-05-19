@@ -1,6 +1,8 @@
 # Flappy Birds
 
-I've created a replica of Flappy Birds using python's pygame library.
+Welcome to my Flappy Birds clone, a fun and engaging game developed using the Pygame library in Python.
+
+This project is a faithful recreation of the original Flappy Birds game, offering players a nostalgic and thrilling gaming experience.
 
 * Start page
 
